@@ -68,7 +68,6 @@ Practical security insights
 
 🔹 📊 Tableau Dashboards
 
-(Coming soon — you can add your Tableau Public link later)
 
 📈 GitHub Stats
 <div align="center">
@@ -92,7 +91,7 @@ Tableau Dashboard Design
 
 📬 Connect With Me
 
-📩 Email: (Add your email here)
+📩 Email: upremkumar.a@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/premkumar-a-39398a355
 
 
